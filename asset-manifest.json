@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/insta-read/static/css/main.c27115bf.css",
+    "main.js": "/insta-read/static/js/main.f38bff31.js",
+    "index.html": "/insta-read/index.html",
+    "main.c27115bf.css.map": "/insta-read/static/css/main.c27115bf.css.map",
+    "main.f38bff31.js.map": "/insta-read/static/js/main.f38bff31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27115bf.css",
+    "static/js/main.f38bff31.js"
+  ]
+}
